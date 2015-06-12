@@ -2,6 +2,10 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ *Author: Clement Cole
+ *Date: 01/15/2015 -> 06/12/2015
+ *Wikigrapher: This is a simple web crawler I designed for wikipedia to create graphs for each article. The graphs created will
+ * 		be in directories for each type of url.
  */
 package wikigrapher;
 import org.jsoup.Jsoup;
