@@ -1,0 +1,292 @@
+ Language  note-94 1
+ Language  note-95 1
+ Language  note-92 1
+ Language  note-93 1
+ Language  note-90 1
+ Language  note-91 1
+ Language  note-Duranti2003-99 1
+ Language  ref-FOOTNOTENerlich2010192 20-0 1
+ Language  ref-Coulmas 68-1 1
+ Language  note-FOOTNOTETrask200793-11 1
+ Language  ref-Coulmas 68-0 1
+ Language  ref-21 1
+ Language  note-89 1
+ Language  ref-23 1
+ Language  note-Hauser 2002-2 2
+ Language  note-87 1
+ Language  ref-25 1
+ Language  note-Language Instinct-10 3
+ Language  note-88 1
+ Language  note-85 1
+ Language  ref-27 1
+ Language  ref-1 1
+ Language  note-81 1
+ Language  note-82 1
+ Language  ref-Trask 2007 218.E2.80.9319 84-1 1
+ Language  note-80 1
+ Language  ref-9 1
+ Language  ref-Handbook 124-2 1
+ Language  ref-Handbook 124-0 1
+ Language  ref-Handbook 124-1 1
+ Language  note-Moseley-125 1
+ Language  ref-39 1
+ Language  ref-32 1
+ Language  note-78 1
+ Language  note-79 1
+ Language  ref-33 1
+ Language  note-FOOTNOTEDevittSterelny1999-8 1
+ Language  note-76 1
+ Language  ref-Trask 2007 218.E2.80.9319 84-0 1
+ Language  note-77 1
+ Language  note-74 1
+ Language  ref-38 1
+ Language  note-75 1
+ Language  ref-37 1
+ Language  ref-NewmeyerForm 17-0 1
+ Language  note-LyonsIntro-5 1
+ Language  ref-NewmeyerForm 17-2 1
+ Language  ref-NewmeyerForm 17-1 1
+ Language  ref-NewmeyerForm 17-3 1
+ Language  ref-Foley 100-0 1
+ Language  ref-Myths 18-0 1
+ Language  ref-Myths 18-2 1
+ Language  ref-Myths 18-1 1
+ Language  note-Lyons17-57 2
+ Language  ref-Ethnologue 116-0 1
+ Language  ref-Ethnologue 116-1 1
+ Language  note-Coulmas-68 2
+ Language  ref-Ethnologue 116-2 1
+ Language  ref-Language Instinct 10-2 1
+ Language  ref-Language Instinct 10-0 1
+ Language  ref-LadefogedMaddieson 56-0 1
+ Language  ref-Language Instinct 10-1 1
+ Language  ref-19 1
+ Language  note-FOOTNOTEFitch2010466.E2.80.93507-31 1
+ Language  ref-13 1
+ Language  ref-LadefogedMaddieson 56-1 1
+ Language  note-96 1
+ Language  ref-16 1
+ Language  ref-15 1
+ Language  ref-61 1
+ Language  ref-63 1
+ Language  ref-62 1
+ Language  ref-FOOTNOTETrask200793 11-0 1
+ Language  note-FOOTNOTENerlich2010192-20 1
+ Language  ref-126 1
+ Language  ref-127 1
+ Language  note-CroftErg-86 2
+ Language  ref-65 1
+ Language  ref-67 1
+ Language  ref-66 1
+ Language  ref-69 1
+ Language  ref-FOOTNOTEFitch2010250.E2.80.9392 34-0 1
+ Language  ref-70 1
+ Language  note-101 1
+ Language  ref-Deacon 1997 26-0 1
+ Language  ref-72 1
+ Language  ref-71 1
+ Language  ref-74 1
+ Language  ref-Deacon 1997 26-1 1
+ Language  ref-73 1
+ Language  ref-112 1
+ Language  ref-113 1
+ Language  note-Saussure-12 2
+ Language  ref-114 1
+ Language  ref-Moseley 125-0 1
+ Language  ref-115 1
+ Language  ref-117 1
+ Language  ref-118 1
+ Language  ref-5 minute linguist 119-0 1
+ Language  ref-120 1
+ Language  note-105 1
+ Language  ref-76 1
+ Language  note-104 1
+ Language  ref-75 1
+ Language  note-Foley-100 1
+ Language  ref-78 1
+ Language  note-102 1
+ Language  ref-77 1
+ Language  note-109 1
+ Language  ref-EthnologueFamily 122-0 1
+ Language  note-Foley 1997 p-103 2
+ Language  note-108 1
+ Language  ref-79 1
+ Language  ref-EthnologueFamily 122-1 1
+ Language  note-107 1
+ Language  ref-EthnologueFamily 122-2 1
+ Language  note-106 1
+ Language  ref-EthnologueFamily 122-3 1
+ Language  ref-109 1
+ Language  note-112 1
+ Language  note-111 1
+ Language  note-TraskLanguage-6 1
+ Language  note-110 1
+ Language  ref-41 1
+ Language  note-Trask 2007 218.E2.80.9319-84 2
+ Language  ref-LyonsIntro 5-0 1
+ Language  ref-40 1
+ Language  ref-101 1
+ Language  ref-102 1
+ Language  ref-104 1
+ Language  ref-105 1
+ Language  ref-106 1
+ Language  ref-107 1
+ Language  ref-108 1
+ Language  ref-Trask214 64-1 1
+ Language  ref-Trask214 64-0 1
+ Language  ref-110 1
+ Language  ref-111 1
+ Language  ref-43 1
+ Language  ref-Kennison 98-0 1
+ Language  note-Lyons2-4 1
+ Language  note-115 1
+ Language  ref-42 1
+ Language  note-114 1
+ Language  ref-45 1
+ Language  note-113 1
+ Language  ref-44 1
+ Language  ref-Duranti2003 99-0 1
+ Language  note-FOOTNOTEFitch2010250.E2.80.9392-34 1
+ Language  ref-46 1
+ Language  note-118 1
+ Language  ref-49 1
+ Language  note-117 1
+ Language  ref-48 1
+ Language  note-Lesser205-47 2
+ Language  note-Haugen-28 2
+ Language  ref-50 1
+ Language  ref-Levinson 1983 60-0 1
+ Language  note-120 1
+ Language  ref-51 1
+ Language  ref-Levinson 1983 60-1 1
+ Language  note-FOOTNOTEChomsky20004-30 2
+ Language  ref-Lyons17 57-1 1
+ Language  ref-Lyons17 57-0 1
+ Language  ref-Haugen 28-0 1
+ Language  note-Handbook-124 3
+ Language  ref-CroftErg 86-1 1
+ Language  ref-CroftErg 86-0 1
+ Language  ref-Haugen 28-1 1
+ Language  note-127 1
+ Language  ref-54 1
+ Language  note-126 1
+ Language  ref-55 1
+ Language  ref-58 1
+ Language  ref-59 1
+ Language  note-ComrieOgilvie-123 3
+ Language  note-MacMahon5-52 4
+ Language  ref-FOOTNOTEChomsky20004 30-1 1
+ Language  ref-Lesser205 47-0 1
+ Language  ref-FOOTNOTEChomsky20004 30-0 1
+ Language  note-NewmeyerForm-17 4
+ Language  note-FOOTNOTEFoley199770.E2.80.9374-35 1
+ Language  ref-Lesser205 47-1 1
+ Language  note-Trask214-64 2
+ Language  ref-Saussure 12-0 1
+ Language  ref-Saussure 12-1 1
+ Language  note-Deacon 1997-26 2
+ Language  ref-FOOTNOTEBett2010 7-0 1
+ Language  ref-81 1
+ Language  ref-80 1
+ Language  ref-82 1
+ Language  note-Katzner-121 2
+ Language  ref-85 1
+ Language  note-OGrady-Cho-97 1
+ Language  note-FOOTNOTEBaker2001269.E2.80.9370-83 1
+ Language  ref-Hauser 2002 2-0 1
+ Language  note-27 1
+ Language  note-25 1
+ Language  ref-87 1
+ Language  note-23 1
+ Language  note-5 minute linguist-119 1
+ Language  ref-89 1
+ Language  ref-88 1
+ Language  note-21 1
+ Language  note-EthnologueFamily-122 4
+ Language  ref-IPA 53-1 1
+ Language  ref-IPA 53-0 1
+ Language  ref-90 1
+ Language  ref-FOOTNOTEFitch2010292.E2.80.933 36-0 1
+ Language  ref-92 1
+ Language  ref-91 1
+ Language  ref-94 1
+ Language  ref-93 1
+ Language  ref-96 1
+ Language  ref-95 1
+ Language  note-Ethnologue-116 3
+ Language  note-Tomasello 2008-24 2
+ Language  ref-Hauser 2002 2-1 1
+ Language  ref-Foley 1997 p 103-0 1
+ Language  ref-Foley 1997 p 103-1 1
+ Language  note-19 1
+ Language  note-16 1
+ Language  note-Levinson 1983-60 2
+ Language  note-15 1
+ Language  note-13 1
+ Language  ref-Ulbaek 1998 29-1 1
+ Language  ref-Ulbaek 1998 29-0 1
+ Language  note-FOOTNOTETrask2007130-14 1
+ Language  note-50 1
+ Language  ref-FOOTNOTEDevittSterelny1999 8-0 1
+ Language  note-51 1
+ Language  note-Ulbaek 1998-29 2
+ Language  ref-ComrieOgilvie 123-0 1
+ Language  ref-Katzner 121-1 1
+ Language  ref-ComrieOgilvie 123-2 1
+ Language  ref-Katzner 121-0 1
+ Language  ref-ComrieOgilvie 123-1 1
+ Language  ref-FOOTNOTEBaker2001269.E2.80.9370 83-0 1
+ Language  note-49 1
+ Language  note-48 1
+ Language  note-45 1
+ Language  note-46 1
+ Language  note-43 1
+ Language  note-44 1
+ Language  note-41 1
+ Language  note-42 1
+ Language  ref-MacMahon5 52-1 1
+ Language  note-40 1
+ Language  ref-MacMahon5 52-2 1
+ Language  ref-MacMahon5 52-0 1
+ Language  note-1 1
+ Language  ref-MacMahon5 52-3 1
+ Language  note-FOOTNOTEBett2010-7 1
+ Language  note-38 1
+ Language  note-39 1
+ Language  note-37 1
+ Language  ref-Tomasello 2008 24-1 1
+ Language  note-LadefogedMaddieson-56 2
+ Language  note-9 1
+ Language  note-32 1
+ Language  note-33 1
+ Language  ref-Tomasello 2008 24-0 1
+ Language  note-AHD-3 1
+ Language  note-72 1
+ Language  note-73 1
+ Language  note-70 1
+ Language  note-71 1
+ Language  ref-FOOTNOTEFitch2010466.E2.80.93507 31-0 1
+ Language  ref-AHD 3-0 1
+ Language  note-Trask5-22 2
+ Language  note-IPA-53 2
+ Language  ref-Lyons2 4-0 1
+ Language  note-69 1
+ Language  note-67 1
+ Language  note-FOOTNOTEFitch2010292.E2.80.933-36 1
+ Language  note-65 1
+ Language  note-66 1
+ Language  note-63 1
+ Language  note-61 1
+ Language  note-62 1
+ Language  ref-OGrady-Cho 97-0 1
+ Language  note-Myths-18 3
+ Language  note-Kennison-98 1
+ Language  ref-TraskLanguage 6-0 1
+ Language  ref-Trask5 22-0 1
+ Language  ref-FOOTNOTEFoley199770.E2.80.9374 35-0 1
+ Language  ref-FOOTNOTETrask2007130 14-0 1
+ Language  note-58 1
+ Language  note-59 1
+ Language  ref-Trask5 22-1 1
+ Language  note-54 1
+ Language  note-55 1

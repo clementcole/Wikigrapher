@@ -1,0 +1,6 @@
+  Animation2.gif 1
+  Fisher iris versicolor sepalwidth.svg 1
+  Portal-puzzle.svg 2
+  Internet map 1024.jpg 1
+  Svm max sep hyperplane with margin.png 2
+  Linear-svm-scatterplot.svg 1

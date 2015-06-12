@@ -1,0 +1,318 @@
+ Pattern recognition 3
+ Computational finance 1
+ Dlib 1
+ Natural selection 1
+ Computational neuroscience 1
+ Machine learning#Clustering 1
+ Polynomial time 1
+ Data 1
+ DNA sequence 1
+ List of machine learning algorithms 2
+ Wikipedia:Contact us 2
+ Computational statistics 1
+ Jerome H. Friedman 1
+ Relevance vector machine 1
+ Principal component analysis 1
+ IEEE Signal Processing Society 1
+ Independent component analysis 1
+ Template talk:Machine learning bar 1
+ Machine learning#Conferences 1
+ Shogun (toolbox) 1
+ Special:SpecialPages 1
+ Existential risk of artificial general intelligence 1
+ Inference 1
+ Machine learning#Applications 1
+ Machine learning#Commercial software 1
+ Machine learning#Journals 1
+ Machine learning# 3
+ Machine learning#Similarity and metric learning 1
+ Tom M. Mitchell 2
+ Mathematica 1
+ OpenNN 1
+ Perceptron 2
+ Algorithm 2
+ Databricks 1
+ Bioinformatics 1
+ Non-linear 1
+ Stanford University 1
+ Robot learning 1
+ Peter Norvig 1
+ Expectation-maximization algorithm 1
+ Machine learning#Association rule learning 1
+ GOFAI 1
+ Artificial intelligence 1
+ Template:Machine learning bar 1
+ Decision tree learning 2
+ Help:Category 1
+ Brain-machine interfaces 1
+ Main Page 2
+ LIONsolver 1
+ Restricted Boltzmann machine 1
+ Artificial neuron 1
+ Internet fraud 1
+ Machine learning#Decision tree learning 1
+ Machine learning#History and relationships to other fields 1
+ Graphical model 2
+ Connectionism 2
+ AT%26T Labs 1
+ Netflix 1
+ Scikit-learn 1
+ Ryszard S. Michalski 4
+ R (programming language) 1
+ Machine learning#Commercial software with open-source editions 1
+ Evolutionary algorithm 1
+ Ensemble learning 1
+ Theoretical computer science 1
+ Linear discriminant analysis 1
+ Strategy game 1
+ Neural network 1
+ Hierarchical clustering 1
+ Machine learning#Sparse dictionary learning 1
+ Data modeling 1
+ Special:RecentChangesLinked/Machine learning 1
+ K-nearest neighbors classification 1
+ K-nearest neighbors algorithm 1
+ K-means clustering 1
+ DBSCAN 1
+ Predictive analytics 1
+ Machine learning#Theory 1
+ Machine learning#Artificial neural networks 1
+ Similarity learning 1
+ Mean-shift 1
+ Arthur Samuel 1
+ David Rumelhart 1
+ Adversarial machine learning 1
+ Diagnosis (artificial intelligence) 1
+ Supervised learning 4
+ Structured prediction 2
+ Hidden Markov model 2
+ Portal:Featured content 1
+ Michael I. Jordan 1
+ Robot locomotion 1
+ Stock market 1
+ Software suite 1
+ Probability distribution 1
+ Artificial neural network 4
+ Andrew Ng 1
+ H2o (Analytics tool) 1
+ Yooreeka 1
+ Transduction (machine learning) 1
+ Statistics 2
+ Random variables 1
+ Naive Bayes classifier 1
+ MOA (Massive Online Analysis) 1
+ Adaptive control 1
+ Statistical learning theory 1
+ Machine learning 2
+ Adaptive website 1
+ Trevor Hastie 1
+ Reinforcement learning 3
+ Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License 1
+ Empirical risk minimization 1
+ Digital object identifier 2
+ KXEN Inc. 1
+ Portal:Artificial intelligence 1
+ Inductive bias 1
+ Optical character recognition 1
+ Predictive modelling 2
+ Topic modeling 1
+ Christopher M. Bishop 1
+ Association rule learning 2
+ Boosting (machine learning) 1
+ Machine learning#Further reading 1
+ Representation learning 1
+ Help:Contents 1
+ Speech recognition 1
+ Machine learning#Software 1
+ Angoss 1
+ Computer vision 2
+ Time complexity#Polynomial time 1
+ Loss function 1
+ Genetic algorithm 1
+ Ray Solomonoff 1
+ GNU Octave 1
+ Search engines 1
+ Ensemble Averaging 1
+ Grammar induction 1
+ Special:Random 1
+ Support vector machines 1
+ Semi-supervised learning 2
+ Machine learning#External links 1
+ Principal components analysis 1
+ Amazon Web Services 1
+ Bootstrap aggregating 1
+ Generalized linear model 1
+ Decision tree 1
+ Syntactic pattern recognition 1
+ Wikipedia:File Upload Wizard 1
+ Crossover (genetic algorithm) 1
+ STATISTICA 1
+ Multilayer perceptron 1
+ Computational learning theory 4
+ Sequence mining 1
+ Probability theory 2
+ Sparse coding 1
+ Sentiment analysis 1
+ Operational definition 1
+ Natural language 1
+ NeuroSolutions 1
+ Robert Tibshirani 1
+ Ethics of artificial intelligence 1
+ Bayesian network 2
+ Machine learning#Relation to statistics 1
+ Recommender system 1
+ SPSS Modeler 1
+ Multi-label classification 1
+ Backpropagation 1
+ ADALINE 1
+ Anomaly detection 2
+ Portal:Computer science 1
+ ND4J 1
+ Wikipedia:Community portal 1
+ ArXiv 1
+ Communications of the ACM 1
+ Map (mathematics) 1
+ Expert system 1
+ Tertiary source 1
+ Non-negative matrix factorization 1
+ John Hopfield 1
+ Explanation-based learning 1
+ MLPACK (C%2B%2B library) 1
+ Developmental robotics 1
+ Multilinear subspace learning 1
+ Computational advertising 1
+ Machine learning#Reinforcement learning 1
+ BIRCH (data clustering) 1
+ List of important publications in computer science#Machine learning 1
+ Autonomous car 1
+ Special:RecentChanges 1
+ Alan Turing 1
+ RapidMiner 1
+ Apache Spark 1
+ Portal:Current events 1
+ Weka (machine learning) 1
+ Deeplearning4j 1
+ Portal:Machine learning 2
+ Feature learning 2
+ International Standard Book Number 4
+ Strongly NP-hard 1
+ Support vector machine 2
+ Conditional independence 1
+ SAS (software)#Components 1
+ Computational intelligence 1
+ Microsoft Azure 1
+ Credit card fraud 1
+ Inductive programming 1
+ Journal of Machine Learning Research 1
+ Handwriting recognition 1
+ Cache language model 1
+ Bias%E2%80%93variance decomposition 1
+ Dimensionality reduction 2
+ Machine learning#Approaches 1
+ Computing Machinery and Intelligence 1
+ K-SVD 1
+ Regression analysis 4
+ Bias-variance dilemma 1
+ Stuart J. Russell 1
+ Wikipedia:General disclaimer 1
+ Machine Learning (journal) 5
+ Machine learning#Bayesian networks 1
+ Netflix Prize 1
+ Artificial Intelligence: A Modern Approach 1
+ Local outlier factor 1
+ RCASE 1
+ Online machine learning 1
+ Mutation (genetic algorithm) 1
+ Geoff Hinton 1
+ Learning 1
+ Machine learning#References 1
+ Discovery (observation) 1
+ Encog 1
+ Linear classifier 1
+ Chromosome (genetic algorithm) 1
+ Density estimation 1
+ Machine perception 1
+ Object recognition 1
+ Apache Mahout 1
+ Random forest 2
+ Recommendation systems 1
+ Metaheuristic 1
+ Tensor 1
+ ECML PKDD 1
+ Knowledge discovery 1
+ Learning to rank 1
+ International Conference on Machine Learning 1
+ Heuristic (computer science) 1
+ Convolutional neural network 1
+ T-distributed stochastic neighbor embedding 1
+ Search algorithm 1
+ Mathematical optimization 2
+ ELKI 1
+ Factor analysis 1
+ Logic programming 1
+ Linear regression 1
+ Portal:Statistics 1
+ Machine learning#Genetic algorithms 1
+ OpenCV 1
+ Manifold learning 1
+ Statistical inference 1
+ Computer science 1
+ Affective computing 1
+ Structural health monitoring 1
+ Data mining 3
+ Time complexity 1
+ Machine learning#See also 1
+ Data analysis 1
+ Cluster analysis 5
+ Inductive logic programming 2
+ Orange (software) 1
+ Dartmouth Conferences 1
+ Machine learning#Open-source software 1
+ Conference on Neural Information Processing Systems 1
+ Mathematical model 1
+ MATLAB 1
+ Biological neural networks 1
+ Statistical classification 4
+ Wikipedia:Citing sources#What information to include 1
+ Portal:Contents 1
+ Neural Computation 1
+ Cognitive science 1
+ Software engineering 1
+ Probably approximately correct learning 1
+ Oracle Data Mining 1
+ Information retrieval 2
+ Computation 1
+ OPTICS algorithm 1
+ Machine learning#Representation learning 1
+ Directed acyclic graph 1
+ Unsupervised learning 3
+ Vapnik%E2%80%93Chervonenkis theory 1
+ Deep learning 2
+ Data science 1
+ Logistic regression 1
+ TD-Gammon 1
+ Mlpy 1
+ Wikipedia:About 2
+ Machine learning#Types of problems and tasks 1
+ Cognitive model 1
+ Mehryar Mohri 2
+ Natural language processing 1
+ KNIME 1
+ Learning to learn 1
+ Autoencoder 1
+ Machine learning#Support vector machines 1
+ Automatic reasoning 1
+ Machine learning#Overview 1
+ Conditional random field 1
+ Internet 1
+ Machine learning#Inductive logic programming 1
+ Statistical 1
+ Self-organizing map 1
+ Special:WhatLinksHere/Machine learning 1
+ Spam filter 1
+ Leo Breiman 1
+ Canonical correlation analysis 1
+ Joint probability distribution 1
+ Entailment 1
+ Recurrent neural network 1
+ Cheminformatics 1

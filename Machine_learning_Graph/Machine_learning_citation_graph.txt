@@ -1,0 +1,69 @@
+ Machine learning  note-6 1
+ Machine learning  note-5 1
+ Machine learning  note-9 1
+ Machine learning  note-8 1
+ Machine learning  ref-arthur samuel machine learning def 7-0 1
+ Machine learning  note-islr-15 1
+ Machine learning  note-17 1
+ Machine learning  ref-bishop 3-0 1
+ Machine learning  note-18 1
+ Machine learning  ref-2 1
+ Machine learning  ref-bishop 3-1 1
+ Machine learning  ref-bishop 3-2 1
+ Machine learning  note-16 1
+ Machine learning  ref-bishop 3-3 1
+ Machine learning  ref-5 1
+ Machine learning  ref-6 1
+ Machine learning  note-19 1
+ Machine learning  ref-8 1
+ Machine learning  ref-9 1
+ Machine learning  note-Britannica-1 2
+ Machine learning  ref-Britannica 1-0 1
+ Machine learning  ref-bishop 3-4 1
+ Machine learning  note-2 1
+ Machine learning  note-14 1
+ Machine learning  ref-Britannica 1-1 1
+ Machine learning  note-12 1
+ Machine learning  ref-23 1
+ Machine learning  ref-21 1
+ Machine learning  ref-22 1
+ Machine learning  note-bishop-3 5
+ Machine learning  ref-27 1
+ Machine learning  ref-28 1
+ Machine learning  ref-25 1
+ Machine learning  ref-26 1
+ Machine learning  ref-29 1
+ Machine learning  note-changing-11 2
+ Machine learning  note-Wernick-Signal-Proc-July-2010-4 1
+ Machine learning  ref-20 1
+ Machine learning  ref-12 1
+ Machine learning  ref-CACM 24-0 1
+ Machine learning  ref-16 1
+ Machine learning  ref-17 1
+ Machine learning  ref-14 1
+ Machine learning  ref-18 1
+ Machine learning  ref-19 1
+ Machine learning  ref-aima 10-4 1
+ Machine learning  ref-aima 10-3 1
+ Machine learning  note-mi jordan ama-13 2
+ Machine learning  note-aima-10 5
+ Machine learning  ref-aima 10-0 1
+ Machine learning  note-arthur samuel machine learning def-7 1
+ Machine learning  ref-aima 10-2 1
+ Machine learning  ref-aima 10-1 1
+ Machine learning  note-CACM-24 1
+ Machine learning  ref-Wernick-Signal-Proc-July-2010 4-0 1
+ Machine learning  ref-changing 11-0 1
+ Machine learning  ref-changing 11-1 1
+ Machine learning  note-28 1
+ Machine learning  note-29 1
+ Machine learning  note-26 1
+ Machine learning  ref-islr 15-0 1
+ Machine learning  note-27 1
+ Machine learning  note-20 1
+ Machine learning  note-21 1
+ Machine learning  note-25 1
+ Machine learning  ref-mi jordan ama 13-1 1
+ Machine learning  note-22 1
+ Machine learning  ref-mi jordan ama 13-0 1
+ Machine learning  note-23 1
